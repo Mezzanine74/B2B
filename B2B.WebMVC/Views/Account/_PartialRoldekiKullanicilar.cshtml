@@ -1,0 +1,36 @@
+﻿@model string
+
+@using B2B.WebMVC.Models;
+@using Microsoft.AspNet.Identity;
+@using Microsoft.AspNet.Identity.EntityFramework;
+
+
+@{
+    var dd = new B2B.WebMVC.Models.ApplicationDbContext();
+    var sourceBindList = dd.Users.Select(c => new { c.Id, c.UserName }).ToList();
+
+    var sourceBindSelected = new List<string>();
+
+    var userManager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(new ApplicationDbContext()));
+    var roleManager = new RoleManager<IdentityRole>(new RoleStore<IdentityRole>(new ApplicationDbContext()));
+
+    foreach (var item in sourceBindList)
+    {
+        if (userManager.IsInRole(item.Id, roleManager.FindById(Model).Name))
+        {
+            sourceBindSelected.Add(item.UserName);
+        }
+    }
+
+}
+
+@Html.DevExpress().TokenBox(
+   settings =>
+   {
+       settings.Name = "tokenBox" + Model;
+       settings.Width = System.Web.UI.WebControls.Unit.Pixel(300);
+       settings.Properties.TextField = "UserName";
+       settings.Properties.ValueField = "Id";
+       settings.Properties.ClientSideEvents.TokensChanged = "function(s,e,roleId){onTokensChanged(s, e, '" + Model + "')}";
+   }
+).BindList(sourceBindList.ToList()).Bind(sourceBindSelected.ToList()).GetHtml()

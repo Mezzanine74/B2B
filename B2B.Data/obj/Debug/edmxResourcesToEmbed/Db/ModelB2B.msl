@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="B2BModelStoreContainer" CdmEntityContainer="B2BEntities">
+    <EntitySetMapping Name="Brands">
+      <EntityTypeMapping TypeName="B2BModel.Brand">
+        <MappingFragment StoreEntitySet="Brand">
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PaymentMethods">
+      <EntityTypeMapping TypeName="B2BModel.PaymentMethod">
+        <MappingFragment StoreEntitySet="PaymentMethod">
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PeriodOfMaxSellAmounts">
+      <EntityTypeMapping TypeName="B2BModel.PeriodOfMaxSellAmount">
+        <MappingFragment StoreEntitySet="PeriodOfMaxSellAmount">
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductInformations">
+      <EntityTypeMapping TypeName="B2BModel.ProductInformation">
+        <MappingFragment StoreEntitySet="ProductInformation">
+          <ScalarProperty Name="KeyWords" ColumnName="KeyWords" />
+          <ScalarProperty Name="ShortDescription" ColumnName="ShortDescription" />
+          <ScalarProperty Name="PeriodOfMaxSellAmountId" ColumnName="PeriodOfMaxSellAmountId" />
+          <ScalarProperty Name="MaxSellCount" ColumnName="MaxSellCount" />
+          <ScalarProperty Name="ProductSpecialistId" ColumnName="ProductSpecialistId" />
+          <ScalarProperty Name="ManufacturerCode" ColumnName="ManufacturerCode" />
+          <ScalarProperty Name="SupplierId" ColumnName="SupplierId" />
+          <ScalarProperty Name="ShowOrder" ColumnName="ShowOrder" />
+          <ScalarProperty Name="UserComment" ColumnName="UserComment" />
+          <ScalarProperty Name="ShowInMainPage" ColumnName="ShowInMainPage" />
+          <ScalarProperty Name="SellIfNotInStock" ColumnName="SellIfNotInStock" />
+          <ScalarProperty Name="VATId" ColumnName="VATId" />
+          <ScalarProperty Name="PaymentMethodId" ColumnName="PaymentMethodId" />
+          <ScalarProperty Name="StockTypeId" ColumnName="StockTypeId" />
+          <ScalarProperty Name="StockCode" ColumnName="StockCode" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="BrandId" ColumnName="BrandId" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductSpecialists">
+      <EntityTypeMapping TypeName="B2BModel.ProductSpecialist">
+        <MappingFragment StoreEntitySet="ProductSpecialist">
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StockTypes">
+      <EntityTypeMapping TypeName="B2BModel.StockType">
+        <MappingFragment StoreEntitySet="StockType">
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VATs">
+      <EntityTypeMapping TypeName="B2BModel.VAT">
+        <MappingFragment StoreEntitySet="VAT">
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Suppliers">
+      <EntityTypeMapping TypeName="B2BModel.Supplier">
+        <MappingFragment StoreEntitySet="Supplier">
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TestSexes">
+      <EntityTypeMapping TypeName="B2BModel.TestSex">
+        <MappingFragment StoreEntitySet="TestSex">
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SubTestPersonDescriptions">
+      <EntityTypeMapping TypeName="B2BModel.SubTestPersonDescription">
+        <MappingFragment StoreEntitySet="SubTestPersonDescription">
+          <ScalarProperty Name="Lang" ColumnName="Lang" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="BaseId" ColumnName="BaseId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SubTestPersonSurnames">
+      <EntityTypeMapping TypeName="B2BModel.SubTestPersonSurname">
+        <MappingFragment StoreEntitySet="SubTestPersonSurname">
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="BaseId" ColumnName="BaseId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Lang" ColumnName="Lang" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TestPersons">
+      <EntityTypeMapping TypeName="B2BModel.TestPerson">
+        <MappingFragment StoreEntitySet="TestPerson">
+          <ScalarProperty Name="TestSexId" ColumnName="TestSexId" />
+          <ScalarProperty Name="SurnameMLId" ColumnName="SurnameMLId" />
+          <ScalarProperty Name="Surname" ColumnName="Surname" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="DescriptionMLId" ColumnName="DescriptionMLId" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="SpTestPersonList" FunctionName="B2BModel.Store.SpTestPersonList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="B2BModel.SpTestPersonList_Result">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="DescriptionMLId" ColumnName="DescriptionMLId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Surname" ColumnName="Surname" />
+          <ScalarProperty Name="SurnameMLId" ColumnName="SurnameMLId" />
+          <ScalarProperty Name="TestSexId" ColumnName="TestSexId" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

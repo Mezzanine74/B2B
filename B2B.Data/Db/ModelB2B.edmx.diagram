@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7a00f0a491c9494d80faa8b5ed913b3f" Name="Diagram1" >
+        <EntityTypeShape EntityType="B2BModel.Brand" Width="1.5" PointX="0.75" PointY="11.125" />
+        <EntityTypeShape EntityType="B2BModel.PaymentMethod" Width="1.5" PointX="0.75" PointY="18.25" />
+        <EntityTypeShape EntityType="B2BModel.PeriodOfMaxSellAmount" Width="1.5" PointX="0.75" PointY="13.5" />
+        <EntityTypeShape EntityType="B2BModel.ProductInformation" Width="1.5" PointX="3" PointY="1.125" />
+        <EntityTypeShape EntityType="B2BModel.ProductSpecialist" Width="1.5" PointX="0.75" PointY="8.875" />
+        <EntityTypeShape EntityType="B2BModel.StockType" Width="1.5" PointX="0.75" PointY="15.875" />
+        <EntityTypeShape EntityType="B2BModel.VAT" Width="1.5" PointX="0.75" PointY="3.375" />
+        <AssociationConnector Association="B2BModel.FK_ProductInformation_Brand" />
+        <AssociationConnector Association="B2BModel.FK_ProductInformation_PaymentMethod" />
+        <AssociationConnector Association="B2BModel.FK_ProductInformation_PeriodOfMaxSellAmount" />
+        <AssociationConnector Association="B2BModel.FK_ProductInformation_ProductSpecialist" />
+        <AssociationConnector Association="B2BModel.FK_ProductInformation_StockType" />
+        <AssociationConnector Association="B2BModel.FK_ProductInformation_VAT" />
+        <EntityTypeShape EntityType="B2BModel.Supplier" Width="1.5" PointX="0.75" PointY="0.75" />
+        <AssociationConnector Association="B2BModel.FK_ProductInformation_Supplier" />
+        <EntityTypeShape EntityType="B2BModel.TestSex" Width="1.5" PointX="5.375" PointY="1.375" />
+        <EntityTypeShape EntityType="B2BModel.SubTestPersonDescription" Width="1.5" PointX="9.875" PointY="1.125" />
+        <EntityTypeShape EntityType="B2BModel.SubTestPersonSurname" Width="1.5" PointX="9.875" PointY="6.375" />
+        <EntityTypeShape EntityType="B2BModel.TestPerson" Width="1.5" PointX="7.625" PointY="5.875" />
+        <AssociationConnector Association="B2BModel.FK_SubTestPersonDescription_TestPerson1" />
+        <AssociationConnector Association="B2BModel.FK_SubTestPersonSurname_TestPerson" />
+        <AssociationConnector Association="B2BModel.FK_TestPerson_TestSex" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

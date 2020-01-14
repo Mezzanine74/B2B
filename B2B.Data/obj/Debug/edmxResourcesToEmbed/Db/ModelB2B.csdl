@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="B2BModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="B2BEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Brands" EntityType="B2BModel.Brand" />
+    <EntitySet Name="PaymentMethods" EntityType="B2BModel.PaymentMethod" />
+    <EntitySet Name="PeriodOfMaxSellAmounts" EntityType="B2BModel.PeriodOfMaxSellAmount" />
+    <EntitySet Name="ProductInformations" EntityType="B2BModel.ProductInformation" />
+    <EntitySet Name="ProductSpecialists" EntityType="B2BModel.ProductSpecialist" />
+    <EntitySet Name="StockTypes" EntityType="B2BModel.StockType" />
+    <EntitySet Name="VATs" EntityType="B2BModel.VAT" />
+    <AssociationSet Name="FK_ProductInformation_Brand" Association="B2BModel.FK_ProductInformation_Brand">
+      <End Role="Brand" EntitySet="Brands" />
+      <End Role="ProductInformation" EntitySet="ProductInformations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductInformation_PaymentMethod" Association="B2BModel.FK_ProductInformation_PaymentMethod">
+      <End Role="PaymentMethod" EntitySet="PaymentMethods" />
+      <End Role="ProductInformation" EntitySet="ProductInformations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductInformation_PeriodOfMaxSellAmount" Association="B2BModel.FK_ProductInformation_PeriodOfMaxSellAmount">
+      <End Role="PeriodOfMaxSellAmount" EntitySet="PeriodOfMaxSellAmounts" />
+      <End Role="ProductInformation" EntitySet="ProductInformations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductInformation_ProductSpecialist" Association="B2BModel.FK_ProductInformation_ProductSpecialist">
+      <End Role="ProductSpecialist" EntitySet="ProductSpecialists" />
+      <End Role="ProductInformation" EntitySet="ProductInformations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductInformation_StockType" Association="B2BModel.FK_ProductInformation_StockType">
+      <End Role="StockType" EntitySet="StockTypes" />
+      <End Role="ProductInformation" EntitySet="ProductInformations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductInformation_VAT" Association="B2BModel.FK_ProductInformation_VAT">
+      <End Role="VAT" EntitySet="VATs" />
+      <End Role="ProductInformation" EntitySet="ProductInformations" />
+    </AssociationSet>
+    <EntitySet Name="Suppliers" EntityType="B2BModel.Supplier" />
+    <AssociationSet Name="FK_ProductInformation_Supplier" Association="B2BModel.FK_ProductInformation_Supplier">
+      <End Role="Supplier" EntitySet="Suppliers" />
+      <End Role="ProductInformation" EntitySet="ProductInformations" />
+    </AssociationSet>
+    <EntitySet Name="TestSexes" EntityType="B2BModel.TestSex" />
+    <EntitySet Name="SubTestPersonDescriptions" EntityType="B2BModel.SubTestPersonDescription" />
+    <EntitySet Name="SubTestPersonSurnames" EntityType="B2BModel.SubTestPersonSurname" />
+    <EntitySet Name="TestPersons" EntityType="B2BModel.TestPerson" />
+    <AssociationSet Name="FK_SubTestPersonDescription_TestPerson1" Association="B2BModel.FK_SubTestPersonDescription_TestPerson1">
+      <End Role="TestPerson" EntitySet="TestPersons" />
+      <End Role="SubTestPersonDescription" EntitySet="SubTestPersonDescriptions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SubTestPersonSurname_TestPerson" Association="B2BModel.FK_SubTestPersonSurname_TestPerson">
+      <End Role="TestPerson" EntitySet="TestPersons" />
+      <End Role="SubTestPersonSurname" EntitySet="SubTestPersonSurnames" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TestPerson_TestSex" Association="B2BModel.FK_TestPerson_TestSex">
+      <End Role="TestSex" EntitySet="TestSexes" />
+      <End Role="TestPerson" EntitySet="TestPersons" />
+    </AssociationSet>
+    <FunctionImport Name="SpTestPersonList" ReturnType="Collection(B2BModel.SpTestPersonList_Result)">
+      <Parameter Name="Lang" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <EntityType Name="Brand">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="200" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ProductInformations" Relationship="B2BModel.FK_ProductInformation_Brand" FromRole="Brand" ToRole="ProductInformation" />
+  </EntityType>
+  <EntityType Name="PaymentMethod">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="200" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ProductInformations" Relationship="B2BModel.FK_ProductInformation_PaymentMethod" FromRole="PaymentMethod" ToRole="ProductInformation" />
+  </EntityType>
+  <EntityType Name="PeriodOfMaxSellAmount">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="200" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ProductInformations" Relationship="B2BModel.FK_ProductInformation_PeriodOfMaxSellAmount" FromRole="PeriodOfMaxSellAmount" ToRole="ProductInformation" />
+  </EntityType>
+  <EntityType Name="ProductInformation">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="BrandId" Type="Int32" />
+    <Property Name="Status" Type="Boolean" />
+    <Property Name="StockCode" Type="Int32" />
+    <Property Name="StockTypeId" Type="Int32" />
+    <Property Name="PaymentMethodId" Type="Int32" />
+    <Property Name="VATId" Type="Int32" />
+    <Property Name="SellIfNotInStock" Type="Boolean" />
+    <Property Name="ShowInMainPage" Type="Boolean" />
+    <Property Name="UserComment" Type="Boolean" />
+    <Property Name="ShowOrder" Type="Int32" />
+    <Property Name="SupplierId" Type="Int32" />
+    <Property Name="ManufacturerCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ProductSpecialistId" Type="Int32" />
+    <Property Name="MaxSellCount" Type="Int32" />
+    <Property Name="PeriodOfMaxSellAmountId" Type="Int32" />
+    <Property Name="ShortDescription" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="KeyWords" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Brand" Relationship="B2BModel.FK_ProductInformation_Brand" FromRole="ProductInformation" ToRole="Brand" />
+    <NavigationProperty Name="PaymentMethod" Relationship="B2BModel.FK_ProductInformation_PaymentMethod" FromRole="ProductInformation" ToRole="PaymentMethod" />
+    <NavigationProperty Name="PeriodOfMaxSellAmount" Relationship="B2BModel.FK_ProductInformation_PeriodOfMaxSellAmount" FromRole="ProductInformation" ToRole="PeriodOfMaxSellAmount" />
+    <NavigationProperty Name="ProductSpecialist" Relationship="B2BModel.FK_ProductInformation_ProductSpecialist" FromRole="ProductInformation" ToRole="ProductSpecialist" />
+    <NavigationProperty Name="StockType" Relationship="B2BModel.FK_ProductInformation_StockType" FromRole="ProductInformation" ToRole="StockType" />
+    <NavigationProperty Name="VAT" Relationship="B2BModel.FK_ProductInformation_VAT" FromRole="ProductInformation" ToRole="VAT" />
+    <NavigationProperty Name="Supplier" Relationship="B2BModel.FK_ProductInformation_Supplier" FromRole="ProductInformation" ToRole="Supplier" />
+  </EntityType>
+  <EntityType Name="ProductSpecialist">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="200" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ProductInformations" Relationship="B2BModel.FK_ProductInformation_ProductSpecialist" FromRole="ProductSpecialist" ToRole="ProductInformation" />
+  </EntityType>
+  <EntityType Name="StockType">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="200" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ProductInformations" Relationship="B2BModel.FK_ProductInformation_StockType" FromRole="StockType" ToRole="ProductInformation" />
+  </EntityType>
+  <EntityType Name="VAT">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="200" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ProductInformations" Relationship="B2BModel.FK_ProductInformation_VAT" FromRole="VAT" ToRole="ProductInformation" />
+  </EntityType>
+  <Association Name="FK_ProductInformation_Brand">
+    <End Type="B2BModel.Brand" Role="Brand" Multiplicity="0..1" />
+    <End Type="B2BModel.ProductInformation" Role="ProductInformation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Brand">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProductInformation">
+        <PropertyRef Name="BrandId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductInformation_PaymentMethod">
+    <End Type="B2BModel.PaymentMethod" Role="PaymentMethod" Multiplicity="0..1" />
+    <End Type="B2BModel.ProductInformation" Role="ProductInformation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PaymentMethod">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProductInformation">
+        <PropertyRef Name="PaymentMethodId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductInformation_PeriodOfMaxSellAmount">
+    <End Type="B2BModel.PeriodOfMaxSellAmount" Role="PeriodOfMaxSellAmount" Multiplicity="0..1" />
+    <End Type="B2BModel.ProductInformation" Role="ProductInformation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PeriodOfMaxSellAmount">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProductInformation">
+        <PropertyRef Name="PeriodOfMaxSellAmountId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductInformation_ProductSpecialist">
+    <End Type="B2BModel.ProductSpecialist" Role="ProductSpecialist" Multiplicity="0..1" />
+    <End Type="B2BModel.ProductInformation" Role="ProductInformation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductSpecialist">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProductInformation">
+        <PropertyRef Name="ProductSpecialistId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductInformation_StockType">
+    <End Type="B2BModel.StockType" Role="StockType" Multiplicity="0..1" />
+    <End Type="B2BModel.ProductInformation" Role="ProductInformation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="StockType">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProductInformation">
+        <PropertyRef Name="StockTypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductInformation_VAT">
+    <End Type="B2BModel.VAT" Role="VAT" Multiplicity="0..1" />
+    <End Type="B2BModel.ProductInformation" Role="ProductInformation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="VAT">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProductInformation">
+        <PropertyRef Name="VATId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Supplier">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="200" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ProductInformations" Relationship="B2BModel.FK_ProductInformation_Supplier" FromRole="Supplier" ToRole="ProductInformation" />
+  </EntityType>
+  <Association Name="FK_ProductInformation_Supplier">
+    <End Type="B2BModel.Supplier" Role="Supplier" Multiplicity="0..1" />
+    <End Type="B2BModel.ProductInformation" Role="ProductInformation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Supplier">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProductInformation">
+        <PropertyRef Name="SupplierId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="TestSex">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="TestPersons" Relationship="B2BModel.FK_TestPerson_TestSex" FromRole="TestSex" ToRole="TestPerson" />
+  </EntityType>
+  <EntityType Name="SubTestPersonDescription">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BaseId" Type="Int32" Nullable="false" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Lang" Type="String" Nullable="false" MaxLength="2" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="TestPerson" Relationship="B2BModel.FK_SubTestPersonDescription_TestPerson1" FromRole="SubTestPersonDescription" ToRole="TestPerson" />
+  </EntityType>
+  <EntityType Name="SubTestPersonSurname">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Lang" Type="String" Nullable="false" MaxLength="2" FixedLength="false" Unicode="true" />
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="BaseId" Type="Int32" Nullable="false" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="TestPerson" Relationship="B2BModel.FK_SubTestPersonSurname_TestPerson" FromRole="SubTestPersonSurname" ToRole="TestPerson" />
+  </EntityType>
+  <EntityType Name="TestPerson">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="DescriptionMLId" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Surname" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="SurnameMLId" Type="Int32" Nullable="false" />
+    <Property Name="TestSexId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="SubTestPersonDescriptions" Relationship="B2BModel.FK_SubTestPersonDescription_TestPerson1" FromRole="TestPerson" ToRole="SubTestPersonDescription" />
+    <NavigationProperty Name="SubTestPersonSurnames" Relationship="B2BModel.FK_SubTestPersonSurname_TestPerson" FromRole="TestPerson" ToRole="SubTestPersonSurname" />
+    <NavigationProperty Name="TestSex" Relationship="B2BModel.FK_TestPerson_TestSex" FromRole="TestPerson" ToRole="TestSex" />
+  </EntityType>
+  <Association Name="FK_SubTestPersonDescription_TestPerson1">
+    <End Type="B2BModel.TestPerson" Role="TestPerson" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="B2BModel.SubTestPersonDescription" Role="SubTestPersonDescription" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TestPerson">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="SubTestPersonDescription">
+        <PropertyRef Name="BaseId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SubTestPersonSurname_TestPerson">
+    <End Type="B2BModel.TestPerson" Role="TestPerson" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="B2BModel.SubTestPersonSurname" Role="SubTestPersonSurname" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TestPerson">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="SubTestPersonSurname">
+        <PropertyRef Name="BaseId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TestPerson_TestSex">
+    <End Type="B2BModel.TestSex" Role="TestSex" Multiplicity="1" />
+    <End Type="B2BModel.TestPerson" Role="TestPerson" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TestSex">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="TestPerson">
+        <PropertyRef Name="TestSexId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="SpTestPersonList_Result">
+    <Property Type="Int32" Name="Id" Nullable="false" />
+    <Property Type="String" Name="Description" Nullable="false" MaxLength="100" />
+    <Property Type="Int32" Name="DescriptionMLId" Nullable="false" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="Surname" Nullable="false" MaxLength="100" />
+    <Property Type="Int32" Name="SurnameMLId" Nullable="false" />
+    <Property Type="Int32" Name="TestSexId" Nullable="false" />
+  </ComplexType>
+</Schema>

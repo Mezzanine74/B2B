@@ -1,0 +1,64 @@
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\bin\Debug\B2B.Repository.dll.config
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\bin\Debug\B2B.Repository.dll
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\bin\Debug\B2B.Repository.pdb
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\bin\Debug\AutoMapper.dll
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\bin\Debug\B2B.Data.dll
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\bin\Debug\B2B.SharedKernel.dll
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\bin\Debug\B2B.Data.pdb
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\bin\Debug\B2B.Data.dll.config
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\bin\Debug\B2B.SharedKernel.pdb
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\bin\Debug\B2B.SharedKernel.dll.config
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\bin\Debug\AutoMapper.pdb
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\bin\Debug\AutoMapper.xml
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\obj\Debug\B2B.Repository.csprojAssemblyReference.cache
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\obj\Debug\B2B.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\obj\Debug\B2B.Repository.csproj.CopyComplete
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\obj\Debug\B2B.Repository.dll
+C:\Users\Savaş\source\repos\B2B\B2B.Repository\obj\Debug\B2B.Repository.pdb
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\bin\Debug\B2B.Repository.dll.config
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\bin\Debug\B2B.Repository.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\bin\Debug\B2B.Repository.pdb
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\bin\Debug\AutoMapper.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\bin\Debug\B2B.Data.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\bin\Debug\B2B.SharedKernel.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\bin\Debug\B2B.Data.pdb
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\bin\Debug\B2B.Data.dll.config
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\bin\Debug\B2B.SharedKernel.pdb
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\bin\Debug\B2B.SharedKernel.dll.config
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\bin\Debug\AutoMapper.pdb
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\bin\Debug\AutoMapper.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\bin\Debug\ru\B2B.Data.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\obj\Debug\B2B.Repository.csprojAssemblyReference.cache
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\obj\Debug\B2B.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\obj\Debug\B2B.Repository.csproj.CopyComplete
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\obj\Debug\B2B.Repository.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Repository\obj\Debug\B2B.Repository.pdb
+C:\Users\USER\source\repos\B2B\B2B.Repository\bin\Debug\B2B.Repository.dll.config
+C:\Users\USER\source\repos\B2B\B2B.Repository\bin\Debug\B2B.Repository.dll
+C:\Users\USER\source\repos\B2B\B2B.Repository\bin\Debug\B2B.Repository.pdb
+C:\Users\USER\source\repos\B2B\B2B.Repository\bin\Debug\AutoMapper.dll
+C:\Users\USER\source\repos\B2B\B2B.Repository\bin\Debug\B2B.Data.dll
+C:\Users\USER\source\repos\B2B\B2B.Repository\bin\Debug\B2B.SharedKernel.dll
+C:\Users\USER\source\repos\B2B\B2B.Repository\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\B2B\B2B.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\B2B\B2B.Repository\bin\Debug\B2B.Data.pdb
+C:\Users\USER\source\repos\B2B\B2B.Repository\bin\Debug\B2B.Data.dll.config
+C:\Users\USER\source\repos\B2B\B2B.Repository\bin\Debug\B2B.SharedKernel.pdb
+C:\Users\USER\source\repos\B2B\B2B.Repository\bin\Debug\B2B.SharedKernel.dll.config
+C:\Users\USER\source\repos\B2B\B2B.Repository\bin\Debug\AutoMapper.pdb
+C:\Users\USER\source\repos\B2B\B2B.Repository\bin\Debug\AutoMapper.xml
+C:\Users\USER\source\repos\B2B\B2B.Repository\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\B2B\B2B.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\B2B\B2B.Repository\bin\Debug\ru\B2B.Data.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.Repository\obj\Debug\B2B.Repository.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\B2B\B2B.Repository\obj\Debug\B2B.Repository.csproj.CopyComplete
+C:\Users\USER\source\repos\B2B\B2B.Repository\obj\Debug\B2B.Repository.dll
+C:\Users\USER\source\repos\B2B\B2B.Repository\obj\Debug\B2B.Repository.pdb

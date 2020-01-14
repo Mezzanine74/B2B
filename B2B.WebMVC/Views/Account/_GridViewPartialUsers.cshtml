@@ -1,0 +1,42 @@
+@model List<B2B.WebMVC.Models.RegisterViewModel>
+
+@{
+    var grid = Html.DevExpress().GridView(settings => {
+        settings.Name = "GridViewUsers";
+        settings.CallbackRouteValues = new { Controller = "Account", Action = "GridViewPartialUsers" };
+        settings.SettingsEditing.AddNewRowRouteValues = new { Controller = "Account", Action = "GridViewPartialUsersAddNew" };
+        settings.SettingsEditing.UpdateRowRouteValues = new { Controller = "Account", Action = "GridViewPartialUsersUpdate" };
+        settings.SettingsEditing.DeleteRowRouteValues = new { Controller = "Account", Action = "GridViewPartialUsersDelete" };
+        B2B.WebMVC.Helpers.GridViewCommonSettings.SetSettings(settings);
+
+        settings.ClientSideEvents.RowDblClick = "function(s,e){ getPassword(s,e,e.visibleIndex);}";
+        settings.ClientSideEvents.EndCallback = "function(s,e){endCallBackGridUsers(s,e)}";
+
+        settings.KeyFieldName = "UserName";
+
+        settings.Columns.Add("UserName");
+        settings.Columns.Add("Email");
+        settings.Columns.Add("Password");
+        settings.Columns.Add("PasswordRaw").SetColVisible(false);
+
+        settings.Columns.Add(column =>
+        {
+            column.EditFormSettings.Visible = DefaultBoolean.False;
+            column.Width = System.Web.UI.WebControls.Unit.Pixel(400);
+            column.SetDataItemTemplateContent(c =>
+            {
+                Html.RenderPartial("_PartialKullaniciRolleri", c.KeyValue);
+            });
+        });
+
+        settings.CellEditorInitialize = (s, e) =>
+        {
+            if (e.Column.FieldName == "PasswordRaw")
+            {
+                e.Editor.ClientVisible = false;
+            }
+        };
+
+    });
+}
+@grid.Bind(Model).GetHtml()

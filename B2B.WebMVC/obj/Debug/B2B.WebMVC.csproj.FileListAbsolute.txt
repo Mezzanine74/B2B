@@ -1,0 +1,700 @@
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\B2B.WebMVC.dll.config
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\B2B.WebMVC.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\B2B.WebMVC.pdb
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\fr\B2B.WebMVC.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\B2B.WebMVC.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\netstandard.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.AppContext.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Collections.Concurrent.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Collections.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Collections.NonGeneric.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Collections.Specialized.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.ComponentModel.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.ComponentModel.Primitives.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Console.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Data.Common.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Diagnostics.Contracts.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Diagnostics.Debug.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Diagnostics.Process.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Diagnostics.Tools.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Diagnostics.Tracing.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Drawing.Primitives.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Dynamic.Runtime.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Globalization.Calendars.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Globalization.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Globalization.Extensions.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.IO.Compression.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.IO.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.IO.FileSystem.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.IO.IsolatedStorage.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.IO.Pipes.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Linq.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Linq.Expressions.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Linq.Parallel.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Linq.Queryable.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Net.Http.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Net.NameResolution.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Net.NetworkInformation.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Net.Ping.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Net.Primitives.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Net.Requests.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Net.Security.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Net.Sockets.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Net.WebSockets.Client.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Net.WebSockets.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.ObjectModel.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Reflection.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Reflection.Extensions.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Reflection.Primitives.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Resources.Reader.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Resources.ResourceManager.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Resources.Writer.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.Extensions.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.Handles.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.InteropServices.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.Numerics.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Security.Claims.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Security.Principal.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Security.SecureString.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Text.Encoding.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Text.RegularExpressions.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Threading.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Threading.Overlapped.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Threading.Tasks.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Threading.Thread.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Threading.ThreadPool.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Threading.Timer.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.ValueTuple.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Xml.ReaderWriter.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Xml.XDocument.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Xml.XmlDocument.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Xml.XmlSerializer.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Xml.XPath.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\B2B.Data.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\B2B.Repository.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\B2B.SharedKernel.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Data.v19.1.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Printing.v19.1.Core.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.RichEdit.v19.1.Export.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxScheduler.v19.1.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxThemes.v19.1.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.Mvc5.v19.1.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.v19.1.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraScheduler.v19.1.Core.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\EntityFramework.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Http.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Options.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Owin.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Newtonsoft.Json.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Owin.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Refit.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Refit.HttpClientFactory.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Buffers.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.ComponentModel.Annotations.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Memory.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Numerics.Vectors.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Web.Helpers.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Web.Http.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Web.Mvc.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Web.Razor.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Web.WebPages.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\WebMatrix.Data.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\AutoMapper.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Office.v19.1.Core.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Images.v19.1.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxHtmlEditor.v19.1.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraCharts.v19.1.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraCharts.v19.1.Web.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Charts.v19.1.Core.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxTreeList.v19.1.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxSpellChecker.v19.1.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxPivotGrid.v19.1.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.PivotGrid.v19.1.Core.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraReports.v19.1.Web.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraReports.v19.1.Web.WebForms.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraReports.v19.1.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.DataAccess.v19.1.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxRichEdit.v19.1.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.SpellChecker.v19.1.Core.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxSpreadsheet.v19.1.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Spreadsheet.v19.1.Core.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.Resources.v19.1.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraGauges.v19.1.Core.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Xpo.v19.1.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.CodeParser.v19.1.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\B2B.Data.pdb
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\B2B.Data.dll.config
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\B2B.Repository.pdb
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\B2B.Repository.dll.config
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\B2B.SharedKernel.pdb
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\B2B.SharedKernel.dll.config
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\EntityFramework.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Http.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Options.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Owin.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Newtonsoft.Json.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Refit.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\Refit.HttpClientFactory.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Buffers.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Memory.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Numerics.Vectors.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Web.Helpers.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Web.Http.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Web.Mvc.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Web.Razor.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Web.WebPages.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Data.v19.1.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.v19.1.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.Mvc5.v19.1.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraScheduler.v19.1.Core.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxScheduler.v19.1.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\WebMatrix.Data.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\AutoMapper.pdb
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\AutoMapper.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Office.v19.1.Core.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxHtmlEditor.v19.1.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraCharts.v19.1.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraCharts.v19.1.Web.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxTreeList.v19.1.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxSpellChecker.v19.1.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxPivotGrid.v19.1.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.PivotGrid.v19.1.Core.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraReports.v19.1.Web.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraReports.v19.1.Web.WebForms.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraReports.v19.1.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.DataAccess.v19.1.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxRichEdit.v19.1.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.SpellChecker.v19.1.Core.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxSpreadsheet.v19.1.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Spreadsheet.v19.1.Core.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraGauges.v19.1.Core.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Xpo.v19.1.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\B2B.Data.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Web.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Web.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Web.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Web.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Web.ASPxScheduler.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Web.ASPxScheduler.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Web.ASPxScheduler.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Web.ASPxScheduler.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Web.ASPxHtmlEditor.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Web.ASPxHtmlEditor.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Web.ASPxHtmlEditor.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Web.ASPxHtmlEditor.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Web.ASPxTreeList.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Web.ASPxTreeList.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Web.ASPxTreeList.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Web.ASPxTreeList.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Web.ASPxSpellChecker.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Web.ASPxSpellChecker.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Web.ASPxSpellChecker.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Web.ASPxSpellChecker.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.XtraReports.v19.1.Web.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.XtraReports.v19.1.Web.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.XtraReports.v19.1.Web.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.XtraReports.v19.1.Web.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Web.ASPxRichEdit.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Web.ASPxRichEdit.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Web.ASPxRichEdit.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Web.ASPxRichEdit.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Web.ASPxSpreadsheet.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Web.ASPxSpreadsheet.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Web.ASPxSpreadsheet.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Web.ASPxSpreadsheet.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\obj\Debug\B2B.WebMVC.csprojAssemblyReference.cache
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\obj\Debug\B2B.WebMVC.Resources.Global.resources
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\obj\Debug\B2B.WebMVC.Resources.Global.fr.resources
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\obj\Debug\B2B.WebMVC.Resources.Global.ru.resources
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\obj\Debug\B2B.WebMVC.csproj.GenerateResource.cache
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\obj\Debug\RefitStubs.g.cs
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\obj\Debug\B2B.WebMVC.csproj.CoreCompileInputs.cache
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\obj\Debug\fr\B2B.WebMVC.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\obj\Debug\ru\B2B.WebMVC.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\obj\Debug\B2B.WebMVC.csproj.CopyComplete
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\obj\Debug\B2B.WebMVC.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.WebMVC\obj\Debug\B2B.WebMVC.pdb
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\B2B.WebMVC.dll.config
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\B2B.WebMVC.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\B2B.WebMVC.pdb
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\fr\B2B.WebMVC.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\B2B.WebMVC.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Win32.Primitives.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\netstandard.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.AppContext.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Collections.Concurrent.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Collections.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Collections.NonGeneric.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Collections.Specialized.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.ComponentModel.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.ComponentModel.Primitives.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Console.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Data.Common.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Diagnostics.Contracts.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Diagnostics.Debug.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Diagnostics.Process.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Diagnostics.StackTrace.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Diagnostics.Tools.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Diagnostics.TraceSource.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Diagnostics.Tracing.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Drawing.Primitives.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Dynamic.Runtime.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Globalization.Calendars.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Globalization.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Globalization.Extensions.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.IO.Compression.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.IO.Compression.ZipFile.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.IO.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.IO.FileSystem.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.IO.IsolatedStorage.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.IO.Pipes.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Linq.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Linq.Expressions.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Linq.Parallel.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Linq.Queryable.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Net.Http.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Net.NameResolution.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Net.NetworkInformation.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Net.Ping.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Net.Primitives.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Net.Requests.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Net.Security.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Net.Sockets.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Net.WebHeaderCollection.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Net.WebSockets.Client.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Net.WebSockets.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.ObjectModel.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Reflection.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Reflection.Extensions.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Reflection.Primitives.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Resources.Reader.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Resources.ResourceManager.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Resources.Writer.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.Extensions.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.Handles.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.InteropServices.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.Numerics.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.Serialization.Json.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Security.Claims.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Security.Cryptography.Csp.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Security.Principal.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Security.SecureString.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Text.Encoding.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Text.Encoding.Extensions.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Text.RegularExpressions.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Threading.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Threading.Overlapped.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Threading.Tasks.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Threading.Thread.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Threading.ThreadPool.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Threading.Timer.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.ValueTuple.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Xml.ReaderWriter.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Xml.XDocument.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Xml.XmlDocument.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Xml.XmlSerializer.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Xml.XPath.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Xml.XPath.XDocument.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\B2B.Data.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\B2B.Repository.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\B2B.SharedKernel.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\EntityFramework.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Http.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Logging.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Options.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Owin.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Owin.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Refit.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Refit.HttpClientFactory.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Buffers.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.ComponentModel.Annotations.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Memory.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Numerics.Vectors.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Web.Helpers.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Web.Http.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Web.Mvc.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Web.Razor.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Web.WebPages.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\WebMatrix.Data.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\AutoMapper.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Office.v19.1.Core.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Images.v19.1.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxHtmlEditor.v19.1.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraCharts.v19.1.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraCharts.v19.1.Web.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Charts.v19.1.Core.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxTreeList.v19.1.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxSpellChecker.v19.1.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxPivotGrid.v19.1.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.PivotGrid.v19.1.Core.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraReports.v19.1.Web.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraReports.v19.1.Web.WebForms.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraReports.v19.1.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.DataAccess.v19.1.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxRichEdit.v19.1.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.SpellChecker.v19.1.Core.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxSpreadsheet.v19.1.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Spreadsheet.v19.1.Core.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.Resources.v19.1.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraGauges.v19.1.Core.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Xpo.v19.1.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.CodeParser.v19.1.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\B2B.Data.pdb
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\B2B.Data.dll.config
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\B2B.Repository.pdb
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\B2B.Repository.dll.config
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\B2B.SharedKernel.pdb
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\B2B.SharedKernel.dll.config
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\EntityFramework.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Http.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Logging.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Options.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Owin.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Refit.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\Refit.HttpClientFactory.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Buffers.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Memory.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Numerics.Vectors.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Web.Helpers.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Web.Http.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Web.Mvc.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Web.Razor.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Web.WebPages.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Data.v19.1.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Printing.v19.1.Core.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.v19.1.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.Mvc5.v19.1.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraScheduler.v19.1.Core.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxScheduler.v19.1.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\WebMatrix.Data.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\AutoMapper.pdb
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\AutoMapper.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Office.v19.1.Core.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxHtmlEditor.v19.1.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraCharts.v19.1.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraCharts.v19.1.Web.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxTreeList.v19.1.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxSpellChecker.v19.1.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxPivotGrid.v19.1.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.PivotGrid.v19.1.Core.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraReports.v19.1.Web.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraReports.v19.1.Web.WebForms.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraReports.v19.1.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.DataAccess.v19.1.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxRichEdit.v19.1.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.SpellChecker.v19.1.Core.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Web.ASPxSpreadsheet.v19.1.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Spreadsheet.v19.1.Core.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.XtraGauges.v19.1.Core.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\DevExpress.Xpo.v19.1.xml
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\B2B.Data.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Web.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Web.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Web.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Web.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Web.ASPxScheduler.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Web.ASPxScheduler.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Web.ASPxScheduler.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Web.ASPxScheduler.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Web.ASPxHtmlEditor.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Web.ASPxHtmlEditor.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Web.ASPxHtmlEditor.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Web.ASPxHtmlEditor.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Web.ASPxTreeList.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Web.ASPxTreeList.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Web.ASPxTreeList.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Web.ASPxTreeList.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Web.ASPxSpellChecker.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Web.ASPxSpellChecker.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Web.ASPxSpellChecker.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Web.ASPxSpellChecker.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.XtraReports.v19.1.Web.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.XtraReports.v19.1.Web.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.XtraReports.v19.1.Web.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.XtraReports.v19.1.Web.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Web.ASPxRichEdit.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Web.ASPxRichEdit.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Web.ASPxRichEdit.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Web.ASPxRichEdit.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Web.ASPxSpreadsheet.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Web.ASPxSpreadsheet.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Web.ASPxSpreadsheet.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Web.ASPxSpreadsheet.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Spreadsheet.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\de\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\es\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ja\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\bin\ru\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\obj\Debug\B2B.WebMVC.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\obj\Debug\B2B.WebMVC.Resources.Global.resources
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\obj\Debug\B2B.WebMVC.Resources.Global.fr.resources
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\obj\Debug\B2B.WebMVC.Resources.Global.ru.resources
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\obj\Debug\B2B.WebMVC.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\obj\Debug\RefitStubs.g.cs
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\obj\Debug\fr\B2B.WebMVC.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\obj\Debug\ru\B2B.WebMVC.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\obj\Debug\B2B.WebMVC.csproj.CopyComplete
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\obj\Debug\B2B.WebMVC.dll
+C:\Users\USER\source\repos\B2B\B2B.WebMVC\obj\Debug\B2B.WebMVC.pdb

@@ -1,0 +1,152 @@
+﻿@using B2B.Data.Db
+@using B2B.WebMVC.Helpers
+
+@model IEnumerable<B2B.SharedKernel.IEntity>
+
+@{ 
+
+        Type type = Model.GetType().GetGenericArguments()[0];
+        var propertyNavigationFullName = type.ToString();
+        System.Reflection.Assembly assem = typeof(MockUpClass).Assembly;
+        Type className = assem.GetType(propertyNavigationFullName, true);
+        var inst = Activator.CreateInstance(className);
+
+
+}
+
+@{
+    var grid = Html.DevExpress().GridView(settings =>
+    {
+        var controller = ViewBag.ControllerName;
+
+        settings.Name = controller.ToString() + "GridView";
+
+        settings.CallbackRouteValues = new { Controller = controller, Action = "GridViewPartial" };
+
+        settings.SettingsEditing.AddNewRowRouteValues = new { Controller = controller, Action = "GridViewPartialAddNew" };
+        settings.SettingsEditing.UpdateRowRouteValues = new { Controller = controller, Action = "GridViewPartialUpdate" };
+        settings.SettingsEditing.DeleteRowRouteValues = new { Controller = controller, Action = "GridViewPartialDelete" };
+        settings.SettingsEditing.Mode = GridViewEditingMode.EditFormAndDisplayRow;
+        settings.SettingsBehavior.ConfirmDelete = true;
+
+        settings.CommandColumn.Visible = false;
+
+        settings.DataBound = (sender, e) =>
+        {
+            MVCxGridView grd = sender as MVCxGridView;
+            if (grd.Columns.IndexOf(grd.Columns["CommandColumn"]) != -1)
+                return;
+            GridViewCommandColumn col = new GridViewCommandColumn();
+            col.Name = "CommandColumn";
+            grd.Columns.Add(col);
+            col.VisibleIndex = 0;
+            col.ShowNewButtonInHeader = true;
+            col.ShowDeleteButton = true;
+            col.ShowEditButton = true;
+        };
+
+        settings.KeyFieldName = "Id";
+
+        // Prepare FK and Navigation Properties
+        var modelType = Model.GetType().GetGenericArguments()[0];
+        var PropertiesArray = modelType.GetProperties();
+
+        dynamic repo = Activator.CreateInstance(
+            typeof(FKandNavigationFromModel<>)
+                .MakeGenericType(typeof(MockUpClass) // hedeflenen assembly de herhangi bir class
+                .Assembly
+                .GetType(modelType.FullName, true)) // modelin tipi eg"Mulakat.Data.db.Personel"
+            , inst);
+
+        var list = repo.GetList() as List<FKandNavigationProperty>;
+
+        foreach (var item in PropertiesArray)
+        {
+            if (item.Name == settings.KeyFieldName)
+            {
+                continue;
+            }
+
+            // if FK column
+            if (list.Any(c => c.FK.Equals(item.Name)))
+            {
+
+                var fKandNavigationProperty = list.FirstOrDefault(c => c.FK.Equals(item.Name));
+
+                // Get Resource File Info
+                System.Resources.ResourceManager resourceDbFields = new System.Resources.ResourceManager("B2B.Data.Resources.DbFields", typeof(B2B.Data.Resources.DbFields).Assembly);
+                var resourceColumnName = resourceDbFields.GetString("_", CultureInfo.CurrentCulture);
+
+                // add combo box
+                settings.Columns.Add(column =>
+                {
+                    column.FieldName = fKandNavigationProperty.FK;
+                    //column.Caption = fKandNavigationProperty.Navigation.PropertyType.Name;
+                    column.Caption = resourceColumnName;
+                    column.EditorProperties().ComboBox(p =>
+                    {
+                        p.TextField = fKandNavigationProperty.TextField;
+                        p.ValueField = fKandNavigationProperty.ValueField;
+
+                        p.ValueType = typeof(int);
+                        p.DataSource = fKandNavigationProperty.Repo;
+                    });
+                });
+
+            }
+            else
+            {
+                // tum kolonlari ekle, yoksa editte hata veriyor
+                var col = settings.Columns.Add(item.Name);
+
+                var dataAttribute = (System.ComponentModel.DataAnnotations.DataTypeAttribute)Attribute.GetCustomAttribute(item, typeof(System.ComponentModel.DataAnnotations.DataTypeAttribute));
+
+                if (dataAttribute != null)
+                {
+                    if (dataAttribute.DataType == System.ComponentModel.DataAnnotations.DataType.DateTime)
+                    {
+                        col.ColumnType = MVCxGridViewColumnType.DateEdit;
+                    }
+
+                    if (dataAttribute.DataType == System.ComponentModel.DataAnnotations.DataType.MultilineText)
+                    {
+                        col.ColumnType = MVCxGridViewColumnType.Memo;
+                    }
+                }
+
+                var primitiveTypes = new List<string>() {"Boolean",
+                                                        "Byte",
+                                                        "SByte",
+                                                        "Char",
+                                                        "Decimal",
+                                                        "Double",
+                                                        "Single",
+                                                        "Int32",
+                                                        "UInt32",
+                                                        "Int64",
+                                                        "UInt64",
+                                                        "Object",
+                                                        "Int16",
+                                                        "UInt16",
+                                                        "String" };
+
+                if (!primitiveTypes.Contains(item.PropertyType.Name))
+                {
+                    col.Visible = false;
+                }
+            }
+
+        }
+
+        settings.CellEditorInitialize = (s, e) =>
+        {
+            ((ASPxEdit)e.Editor).ValidationSettings.Display = Display.Dynamic;
+            ((ASPxEdit)e.Editor).ValidationSettings.ErrorDisplayMode = ErrorDisplayMode.ImageWithText;
+        };
+
+    }
+    );
+}
+
+@grid.Bind(Model).GetHtml()
+

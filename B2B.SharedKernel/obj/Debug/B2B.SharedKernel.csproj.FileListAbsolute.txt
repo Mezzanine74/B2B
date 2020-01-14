@@ -1,0 +1,35 @@
+C:\Users\Savaş\source\repos\B2B\B2B.SharedKernel\bin\Debug\B2B.SharedKernel.dll.config
+C:\Users\Savaş\source\repos\B2B\B2B.SharedKernel\bin\Debug\B2B.SharedKernel.dll
+C:\Users\Savaş\source\repos\B2B\B2B.SharedKernel\bin\Debug\B2B.SharedKernel.pdb
+C:\Users\Savaş\source\repos\B2B\B2B.SharedKernel\bin\Debug\EntityFramework.dll
+C:\Users\Savaş\source\repos\B2B\B2B.SharedKernel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Savaş\source\repos\B2B\B2B.SharedKernel\bin\Debug\EntityFramework.xml
+C:\Users\Savaş\source\repos\B2B\B2B.SharedKernel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Savaş\source\repos\B2B\B2B.SharedKernel\obj\Debug\B2B.SharedKernel.csprojAssemblyReference.cache
+C:\Users\Savaş\source\repos\B2B\B2B.SharedKernel\obj\Debug\B2B.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Savaş\source\repos\B2B\B2B.SharedKernel\obj\Debug\B2B.SharedKernel.csproj.CopyComplete
+C:\Users\Savaş\source\repos\B2B\B2B.SharedKernel\obj\Debug\B2B.SharedKernel.dll
+C:\Users\Savaş\source\repos\B2B\B2B.SharedKernel\obj\Debug\B2B.SharedKernel.pdb
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.SharedKernel\bin\Debug\B2B.SharedKernel.dll.config
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.SharedKernel\bin\Debug\B2B.SharedKernel.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.SharedKernel\bin\Debug\B2B.SharedKernel.pdb
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.SharedKernel\bin\Debug\EntityFramework.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.SharedKernel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.SharedKernel\bin\Debug\EntityFramework.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.SharedKernel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.SharedKernel\obj\Debug\B2B.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.SharedKernel\obj\Debug\B2B.SharedKernel.csproj.CopyComplete
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.SharedKernel\obj\Debug\B2B.SharedKernel.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.SharedKernel\obj\Debug\B2B.SharedKernel.pdb
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.SharedKernel\obj\Debug\B2B.SharedKernel.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\B2B\B2B.SharedKernel\bin\Debug\B2B.SharedKernel.dll.config
+C:\Users\USER\source\repos\B2B\B2B.SharedKernel\bin\Debug\B2B.SharedKernel.dll
+C:\Users\USER\source\repos\B2B\B2B.SharedKernel\bin\Debug\B2B.SharedKernel.pdb
+C:\Users\USER\source\repos\B2B\B2B.SharedKernel\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\B2B\B2B.SharedKernel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\B2B\B2B.SharedKernel\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\B2B\B2B.SharedKernel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\B2B\B2B.SharedKernel\obj\Debug\B2B.SharedKernel.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\B2B\B2B.SharedKernel\obj\Debug\B2B.SharedKernel.csproj.CopyComplete
+C:\Users\USER\source\repos\B2B\B2B.SharedKernel\obj\Debug\B2B.SharedKernel.dll
+C:\Users\USER\source\repos\B2B\B2B.SharedKernel\obj\Debug\B2B.SharedKernel.pdb

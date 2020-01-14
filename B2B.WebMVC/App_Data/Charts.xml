@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Charts>
+  <Chart Text="English" Name="en" ImageUrl="~/Content/Images/en.png" />
+  <Chart Text="Russian" Name="ru" ImageUrl="~/Content/Images/ru.png" />
+</Charts>

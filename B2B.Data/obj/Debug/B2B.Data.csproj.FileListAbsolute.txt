@@ -1,0 +1,54 @@
+C:\Users\Savaş\source\repos\B2B\B2B.Data\bin\Debug\B2B.Data.dll.config
+C:\Users\Savaş\source\repos\B2B\B2B.Data\bin\Debug\B2B.Data.dll
+C:\Users\Savaş\source\repos\B2B\B2B.Data\bin\Debug\B2B.Data.pdb
+C:\Users\Savaş\source\repos\B2B\B2B.Data\bin\Debug\B2B.SharedKernel.dll
+C:\Users\Savaş\source\repos\B2B\B2B.Data\bin\Debug\EntityFramework.dll
+C:\Users\Savaş\source\repos\B2B\B2B.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Savaş\source\repos\B2B\B2B.Data\bin\Debug\B2B.SharedKernel.pdb
+C:\Users\Savaş\source\repos\B2B\B2B.Data\bin\Debug\B2B.SharedKernel.dll.config
+C:\Users\Savaş\source\repos\B2B\B2B.Data\bin\Debug\EntityFramework.xml
+C:\Users\Savaş\source\repos\B2B\B2B.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Savaş\source\repos\B2B\B2B.Data\obj\Debug\B2B.Data.csprojAssemblyReference.cache
+C:\Users\Savaş\source\repos\B2B\B2B.Data\obj\Debug\B2B.Data.csproj.CoreCompileInputs.cache
+C:\Users\Savaş\source\repos\B2B\B2B.Data\obj\Debug\B2B.Data.csproj.CopyComplete
+C:\Users\Savaş\source\repos\B2B\B2B.Data\obj\Debug\B2B.Data.dll
+C:\Users\Savaş\source\repos\B2B\B2B.Data\obj\Debug\B2B.Data.pdb
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Data\bin\Debug\B2B.Data.dll.config
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Data\bin\Debug\B2B.Data.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Data\bin\Debug\B2B.Data.pdb
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Data\bin\Debug\ru\B2B.Data.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Data\bin\Debug\B2B.SharedKernel.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Data\bin\Debug\EntityFramework.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Data\bin\Debug\B2B.SharedKernel.pdb
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Data\bin\Debug\B2B.SharedKernel.dll.config
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Data\bin\Debug\EntityFramework.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Data\obj\Debug\B2B.Data.csprojAssemblyReference.cache
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Data\obj\Debug\B2B.Data.Resources.DbFields.resources
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Data\obj\Debug\B2B.Data.Resources.DbFields.ru.resources
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Data\obj\Debug\B2B.Data.csproj.GenerateResource.cache
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Data\obj\Debug\B2B.Data.csproj.CoreCompileInputs.cache
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Data\obj\Debug\ru\B2B.Data.resources.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Data\obj\Debug\B2B.Data.csproj.CopyComplete
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Data\obj\Debug\B2B.Data.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Data\obj\Debug\B2B.Data.pdb
+C:\Users\USER\source\repos\B2B\B2B.Data\bin\Debug\B2B.Data.dll.config
+C:\Users\USER\source\repos\B2B\B2B.Data\bin\Debug\B2B.Data.dll
+C:\Users\USER\source\repos\B2B\B2B.Data\bin\Debug\B2B.Data.pdb
+C:\Users\USER\source\repos\B2B\B2B.Data\bin\Debug\ru\B2B.Data.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.Data\bin\Debug\B2B.SharedKernel.dll
+C:\Users\USER\source\repos\B2B\B2B.Data\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\B2B\B2B.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\B2B\B2B.Data\bin\Debug\B2B.SharedKernel.pdb
+C:\Users\USER\source\repos\B2B\B2B.Data\bin\Debug\B2B.SharedKernel.dll.config
+C:\Users\USER\source\repos\B2B\B2B.Data\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\B2B\B2B.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\B2B\B2B.Data\obj\Debug\B2B.Data.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\B2B\B2B.Data\obj\Debug\B2B.Data.Resources.DbFields.resources
+C:\Users\USER\source\repos\B2B\B2B.Data\obj\Debug\B2B.Data.Resources.DbFields.ru.resources
+C:\Users\USER\source\repos\B2B\B2B.Data\obj\Debug\B2B.Data.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\B2B\B2B.Data\obj\Debug\ru\B2B.Data.resources.dll
+C:\Users\USER\source\repos\B2B\B2B.Data\obj\Debug\B2B.Data.csproj.CopyComplete
+C:\Users\USER\source\repos\B2B\B2B.Data\obj\Debug\B2B.Data.dll
+C:\Users\USER\source\repos\B2B\B2B.Data\obj\Debug\B2B.Data.pdb

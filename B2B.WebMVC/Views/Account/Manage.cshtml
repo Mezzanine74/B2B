@@ -1,0 +1,134 @@
+﻿
+@{
+    ViewBag.Title = "Manage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section LeftPanelContent {
+    @Html.Partial("LeftPanelPartial")
+}
+
+<h2>Manage</h2>
+
+@Html.DevExpress().PageControl(settings => {
+    settings.Name = "pageManager";
+
+    settings.TabPages.Add("Users").SetContent(() =>
+    {
+        ViewContext.Writer.Write(Html.Action("GridViewPartialUsers"));
+    });
+
+    settings.TabPages.Add("Roles").SetContent(() =>
+    {
+        ViewContext.Writer.Write(Html.Action("GridViewPartialRoles"));
+    });
+}).GetHtml()
+
+@section script{
+    <script type="text/javascript">
+
+        function onTokensUChanged(s, e, userName) {
+            var newTokenCollection = s.GetTokenCollection();
+
+            console.log(newTokenCollection);
+            console.log(userName);
+
+            getTokens = function () {
+                return {
+                    rolesInUser: s.GetTokenCollection(),
+                    userName: userName
+                }
+            }
+
+            console.log(getTokens());
+
+            $.ajax({
+                type: "POST",
+                url: '/Account/ProcessUsersRoles/',
+                // The key needs to match your method's input parameter (case-sensitive).
+                data: JSON.stringify(getTokens()),
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (data) {
+                    console.log(data);
+                    GridViewRoles.PerformCallback();
+                    DevExpress.ui.notify({
+                        message: data === "1" ? "'processed successfully" : "failed",
+                        shading: true,
+                        position: {
+                            my: 'center top',
+                            at: 'center top',
+                            of: window,
+                            offset: '0 50'
+                        }
+                    }, data === "1" ? "success" : "error", 300);
+                }
+            });
+
+        };
+
+        function onTokensChanged(s, e, roleId) {
+            var newTokenCollection = s.GetTokenCollection();
+
+            console.log(newTokenCollection);
+            console.log(roleId);
+
+            getTokens = function () {
+                return {
+                    usersinRole: s.GetTokenCollection(),
+                    roleId: roleId
+                }
+            }
+
+            console.log(getTokens());
+
+            $.ajax({
+                type: "POST",
+                url: '/Account/ProcessRolesUsers/',
+                // The key needs to match your method's input parameter (case-sensitive).
+                data: JSON.stringify(getTokens()),
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (data) {
+                    console.log(data);
+                    GridViewUsers.PerformCallback();
+                    DevExpress.ui.notify({
+                        message: data === "1" ? "'processed successfully" : "failed",
+                        shading: true,
+                        position: {
+                            my: 'center top',
+                            at: 'center top',
+                            of: window,
+                            offset: '0 50'
+                        }
+                    }, data === "1" ? "success" : "error", 300);
+                }
+            });
+
+        }
+
+        function getPassword(s, e, rowindex) {
+            GridViewUsers.GetRowValues(
+                rowindex,
+                "PasswordRaw",
+                function (value) {
+                    DevExpress.ui.notify(value);
+                });
+        }
+
+        function endCallBackGridRoles(s, e) {
+            console.log(e);
+            if (e.command === 'UPDATEEDIT' || e.command === 'DELETEROW') {
+                GridViewUsers.PerformCallback();
+            }
+        }
+
+        function endCallBackGridUsers(s, e) {
+            console.log(e);
+            if (e.command === 'UPDATEEDIT' || e.command === 'DELETEROW') {
+                GridViewRoles.PerformCallback();
+            }
+        }
+
+    </script>
+}

@@ -1,0 +1,27 @@
+@{
+    var grid = Html.DevExpress().GridView(settings => {
+        settings.Name = "GridViewRoles";
+        settings.CallbackRouteValues = new { Controller = "Account", Action = "GridViewPartialRoles" };
+        settings.SettingsEditing.AddNewRowRouteValues = new { Controller = "Account", Action = "GridViewPartialRolesAddNew" };
+        settings.SettingsEditing.UpdateRowRouteValues = new { Controller = "Account", Action = "GridViewPartialRolesUpdate" };
+        settings.SettingsEditing.DeleteRowRouteValues = new { Controller = "Account", Action = "GridViewPartialRolesDelete" };
+
+        B2B.WebMVC.Helpers.GridViewCommonSettings.SetSettings(settings);
+
+        settings.ClientSideEvents.EndCallback = "function(s,e){endCallBackGridRoles(s,e)}";
+
+        settings.Columns.Add("Name");
+
+        settings.Columns.Add(column =>
+        {
+            column.EditFormSettings.Visible = DefaultBoolean.False;
+            column.Width = System.Web.UI.WebControls.Unit.Pixel(400);
+            column.SetDataItemTemplateContent(c =>
+            {
+                Html.RenderPartial("_PartialRoldekiKullanicilar", c.KeyValue);
+            });
+        });
+
+    });
+}
+@grid.Bind(Model).GetHtml()

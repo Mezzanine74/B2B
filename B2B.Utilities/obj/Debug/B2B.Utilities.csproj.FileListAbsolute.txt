@@ -1,0 +1,12 @@
+C:\Users\Savaş\source\repos\B2B\B2B.Utilities\bin\Debug\B2B.Utilities.dll
+C:\Users\Savaş\source\repos\B2B\B2B.Utilities\bin\Debug\B2B.Utilities.pdb
+C:\Users\Savaş\source\repos\B2B\B2B.Utilities\obj\Debug\B2B.Utilities.csprojAssemblyReference.cache
+C:\Users\Savaş\source\repos\B2B\B2B.Utilities\obj\Debug\B2B.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Savaş\source\repos\B2B\B2B.Utilities\obj\Debug\B2B.Utilities.dll
+C:\Users\Savaş\source\repos\B2B\B2B.Utilities\obj\Debug\B2B.Utilities.pdb
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Utilities\bin\Debug\B2B.Utilities.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Utilities\bin\Debug\B2B.Utilities.pdb
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Utilities\obj\Debug\B2B.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Utilities\obj\Debug\B2B.Utilities.dll
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Utilities\obj\Debug\B2B.Utilities.pdb
+C:\Users\Savaş Karaduman\source\repos\B2B\B2B.Utilities\obj\Debug\B2B.Utilities.csprojAssemblyReference.cache

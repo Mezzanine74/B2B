@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section LeftPanelContent {
+    @Html.Partial("LeftPanelPartial")
+}
+
+@B2B.WebMVC.Resources.Global.Test
+
+@{
+    Uri uri = Request.Url;
+    var osman = uri.Scheme + Uri.SchemeDelimiter + uri.Authority;
+}
+
+@osman  | @Request.RawUrl | @Request.Url.OriginalString
+
+
+
+@using (Html.BeginForm("Language", "Home", FormMethod.Post, null))
+{
+    <select name="lang" onchange="this.form.submit()">
+        <option value="en" selected>English</option>
+        <option value="ru">Russian</option>
+        <option value="fr">French</option>
+    </select>
+}
+
+@Html.ActionLink("linkText", "Index", "Home", null, null, (CultureInfo)null)
+
+@Url.Action("Index", "Home", null, (CultureInfo)null)
+
+<div class="text-content" id="TextContent">
+    @Html.Raw(File.ReadAllText(Server.MapPath(@"~/App_Data/Overview.html")))
+</div>
